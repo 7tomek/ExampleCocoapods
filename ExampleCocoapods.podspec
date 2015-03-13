@@ -4,6 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "A short description of ExampleCocoapods."
   s.homepage     = "http://github.com/7tomek/ExampleCocoapods.git"
   s.license      = "MIT"
+  s.authors  = { '7tomek' => '7tomek' }
 
   s.ios.deployment_target = "7.0"
   s.osx.deployment_target = "10.7"
